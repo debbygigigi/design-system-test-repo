@@ -3,7 +3,7 @@
   "platforms": {
     "json-flat": {
       "transformGroup": "js",
-      "buildPath": "build/json/",
+      "buildPath": "themes/json/",
       "files": [
         {
           "destination": "styles.json",
@@ -13,7 +13,7 @@
     },
     "ios": {
       "transformGroup": "ios",
-      "buildPath": "build/ios/",
+      "buildPath": "themes/ios/",
       "files": [
         {
           "destination": "StyleDictionaryColor.h",
@@ -55,7 +55,7 @@
     },
     "android": {
       "transformGroup": "android",
-      "buildPath": "build/android/",
+      "buildPath": "themes/android/",
       "files": [
         {
           "destination": "styles.xml",
