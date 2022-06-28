@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Tue, 28 Jun 2022 06:36:05 GMT
+-->
+<resources>
+  <color name="color_light_color">#ffffffff</color>
+  <color name="color_dark_color">#ff263238</color>
+  <color name="color_primary_color">#ff304ffe</color>
+  <color name="color_accent_color">#ffff5722</color>
+  <color name="color_icons_color">#ff979797</color>
+  
+</resources>
